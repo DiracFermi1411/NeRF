@@ -1,3 +1,3 @@
 # Implementation of NERFs
 
-Still updating this repo
+Ongoing updates and improvements
